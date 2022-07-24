@@ -1,0 +1,7 @@
+C:\Users\IdeaPad\source\repos\MvcMovie\MvcMovie\bin\Release\net6.0\publish\MvcMovie.exe
+C:\Users\IdeaPad\source\repos\MvcMovie\MvcMovie\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\IdeaPad\source\repos\MvcMovie\MvcMovie\bin\Release\net6.0\publish\appsettings.json
+C:\Users\IdeaPad\source\repos\MvcMovie\MvcMovie\bin\Release\net6.0\publish\MvcMovie.dll
+C:\Users\IdeaPad\source\repos\MvcMovie\MvcMovie\bin\Release\net6.0\publish\MvcMovie.deps.json
+C:\Users\IdeaPad\source\repos\MvcMovie\MvcMovie\bin\Release\net6.0\publish\MvcMovie.runtimeconfig.json
+C:\Users\IdeaPad\source\repos\MvcMovie\MvcMovie\bin\Release\net6.0\publish\MvcMovie.pdb
